@@ -1,0 +1,4 @@
+La carpeta assets o ACTIVOS en el desarrollo web se utiliza para almacenar los recursos estáticos de un proyecto, como imágenes, fuentes, íconos, scripts y hojas de estilo (CSS). 
+
+---
+Por ahora la utilizaremos para almacenar herramientas de desarrollo que luego incluiremos en el proyecto por ejemplo las librerias completas de las cuales utilizaremos solo unos archivos.

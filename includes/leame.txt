@@ -1,0 +1,1 @@
+En esta carpeta ubicaremos los scripts de conexión a la BD y archivos de seguridad del sistema.
